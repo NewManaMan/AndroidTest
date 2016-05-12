@@ -1,3 +1,0 @@
-hello git
-Lol
-AAA
